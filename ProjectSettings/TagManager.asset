@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EntryLevel
+  - PlayerGun
+  - UpdateState
+  - numOfGuns
+  - GroundGun
+  - Wall
+  - ExitLevel
+  - PuzzlePanel1
+  - JoyStick
+  - PuzzleTrigger
+  - LevelSelectTrigger
+  - LevelSelectPanel
+  - Bomb
+  - Group
+  - StopWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Bullet
+  - EnemyGroup
+  - StartGroup
+  - AI_Bullet
+  - Wall
+  - FaringaAI
+  - PlayerGun
+  - VirusTurret
+  - WeaponPickUP
+  - StopWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 3780644965
+    locked: 0
+  - name: PuzzleComponents
+    uniqueID: 4283210131
+    locked: 0
+  - name: PickUpGun
+    uniqueID: 395724801
+    locked: 0
+  - name: Wall
+    uniqueID: 4173497153
+    locked: 0
+  - name: AI
+    uniqueID: 862488653
+    locked: 0
+  - name: Player
+    uniqueID: 1498230417
+    locked: 0
+  - name: Bullet
+    uniqueID: 2941238053
+    locked: 0
+  - name: Gun
+    uniqueID: 3540132083
+    locked: 0
+  - name: ObstainableCanvas
+    uniqueID: 3483677039
+    locked: 0
+  - name: Obtainable
+    uniqueID: 3912223073
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
